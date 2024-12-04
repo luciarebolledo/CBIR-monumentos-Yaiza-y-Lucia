@@ -8,7 +8,7 @@
 1. Clona este repositorio en tu máquina local:
 
     ```bash
-    git clone https://github.com/upm-classes/aapi_2024
+    git clone https://github.com/luciarebolledo/CBIR-monumentos-Yaiza-y-Lucia
     cd cbir
     ```
 2. Crea un entorno virtual (opcional pero recomendado):
@@ -34,7 +34,7 @@
     ```
 
 ## Ejecución
-
+Los ficheros de codigo deben estar en la misma carpeta que train
 Para ejecutar la aplicación, usa el siguiente comando:
 
 ```bash
