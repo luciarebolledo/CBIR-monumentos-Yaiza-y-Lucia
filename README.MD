@@ -41,3 +41,6 @@ Para ejecutar la aplicación, usa el siguiente comando:
 streamlit run app.py
 ```
 La aplicación se ejecutará en http://localhost:8501
+
+## Vídeos ejemplo
+https://drive.google.com/drive/folders/1cTjZdqXFf7QQHEZjfWcyAPZxHZ2PYzY2?usp=sharing
