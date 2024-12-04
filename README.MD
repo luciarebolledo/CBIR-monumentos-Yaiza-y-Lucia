@@ -35,6 +35,7 @@
 
 ## Ejecución
 Los ficheros de codigo deben estar en la misma carpeta que train
+Además, el fichero crear_excel.py solo es neceario en caso de que no se disponga del fichero image_dataset_with_labels_train.csv, el cual incluye la categoría a la que pertenece cada imagen.
 Para ejecutar la aplicación, usa el siguiente comando:
 
 ```bash
