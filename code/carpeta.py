@@ -2,7 +2,7 @@ import os
 import shutil
 
 # Directorio principal que contiene las subcarpetas
-root_dir = "dataset"  # Cambia "dataset" por la ruta a tu directorio principal
+root_dir = "dataset"  
 train_dir = os.path.join(root_dir, "train")
 
 # Crear la carpeta 'train' si no existe
